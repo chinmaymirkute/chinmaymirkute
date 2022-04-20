@@ -7,7 +7,7 @@ Data Science Learner
 An Entry level Data Science Student pursuing Bachelor’s Degree in Computer Science with knowledge of various Computer Languages.
 
 * 🖥️  See my portfolio at [my website](http://chinmaymirkute.lovestoblog.com)
-* ✉️  You can contact me at [chinmaymirkute15@gmail.com](mailto:chinmaymirkute15@gmail.com)
+* ✉️  You can contact me at [chinmaymirkute@gmail.com](mailto:chinmaymirkute@gmail.com)
 * 🧠  I'm learning Data Science and It's Tools
 
 ### Skills
